@@ -1,0 +1,2 @@
+# dotfiles
+手動
