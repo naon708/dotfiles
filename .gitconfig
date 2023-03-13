@@ -16,6 +16,7 @@
 	sta = status
 	swi = switch
 	logg = log --graph --all --decorate
+	logo = log --oneline -n
 	b = branch --sort=-authordate
 
 ;;;; delta
