@@ -11,7 +11,11 @@
 
 ## Chrome Extensions
 - DeepL
+- Vue.js devtools
+- GraphQL Network Inspector
 - Adblock Plus - free ad blocker
+- Save to Notion
+- ColorZilla
 - 
 
 
