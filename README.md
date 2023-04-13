@@ -7,7 +7,7 @@
 - Notion
 - Clipy
 - iTerm2
-- 
+- Rectangle
 
 ## Chrome Extensions
 - DeepL
@@ -16,7 +16,7 @@
 - Adblock Plus - free ad blocker
 - Save to Notion
 - ColorZilla
-- 
+- Wappalyzer
 
 
 ## iTerm2
