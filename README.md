@@ -8,6 +8,7 @@
 - Clipy
 - iTerm2
 - Rectangle
+- Docker
 
 ## Chrome Extensions
 - DeepL
