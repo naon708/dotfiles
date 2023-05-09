@@ -9,6 +9,7 @@
 - iTerm2
 - Rectangle
 - Docker
+- Postman
 
 ## Chrome Extensions
 - DeepL
