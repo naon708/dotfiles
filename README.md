@@ -27,3 +27,9 @@
 ```
 Preferences → Profiles → Terminal → Unlimited scrollback
 ```
+
+## VSCode
+### Setting
+- Workbench > Editor: Enable Preview ---> Deselect
+
+### Extension
