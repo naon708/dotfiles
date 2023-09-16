@@ -1,5 +1,4 @@
 # dotfiles
-手動
 
 
 ## Mac Apps
