@@ -20,15 +20,18 @@
 - Wappalyzer
 
 
-## iTerm2
+## iTerm2 Settings
 
-#### 無限スクロール
+#### Infinite Scroll
 ```
 Preferences → Profiles → Terminal → Unlimited scrollback
 ```
 
+#### Color
+- https://github.com/naon708/dotfiles/blob/main/iterm2_profiles.json
+
 ## VSCode
-### Setting
+### Settings
 - Workbench > Editor: Enable Preview ---> Deselect
 
-### Extension
+### Extensions
