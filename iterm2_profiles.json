@@ -4,15 +4,19 @@
 
   ],
   "Ansi 12 Color" : {
-    "Green Component" : 0.3333333432674408,
+    "Red Component" : 0.61918500655071307,
+    "Color Space" : "sRGB",
     "Blue Component" : 1,
-    "Red Component" : 0.3333333432674408
+    "Alpha Component" : 1,
+    "Green Component" : 0.63207581811403535
   },
   "Use Non-ASCII Font" : false,
   "Ansi 7 Color" : {
-    "Green Component" : 0.73333334922790527,
-    "Blue Component" : 0.73333334922790527,
-    "Red Component" : 0.73333334922790527
+    "Red Component" : 0.77997582167694246,
+    "Color Space" : "sRGB",
+    "Blue Component" : 0.77997582167694246,
+    "Alpha Component" : 1,
+    "Green Component" : 0.77997582167694246
   },
   "Bold Color" : {
     "Green Component" : 1,
@@ -58,14 +62,18 @@
     "telnet"
   ],
   "Ansi 15 Color" : {
-    "Green Component" : 1,
+    "Red Component" : 1,
+    "Color Space" : "sRGB",
     "Blue Component" : 1,
-    "Red Component" : 1
+    "Alpha Component" : 1,
+    "Green Component" : 1
   },
   "Foreground Color" : {
-    "Green Component" : 0.73333334922790527,
-    "Blue Component" : 0.73333334922790527,
-    "Red Component" : 0.73333334922790527
+    "Red Component" : 0.81100433327488064,
+    "Color Space" : "sRGB",
+    "Blue Component" : 0.81100433327488064,
+    "Alpha Component" : 1,
+    "Green Component" : 0.81100433327488064
   },
   "Working Directory" : "\/Users\/naoya.nishiguchi",
   "Blinking Cursor" : false,
@@ -87,9 +95,11 @@
   "Columns" : 120,
   "Idle Code" : 0,
   "Ansi 13 Color" : {
-    "Green Component" : 0.3333333432674408,
+    "Red Component" : 0.96104129268448846,
+    "Color Space" : "sRGB",
     "Blue Component" : 1,
-    "Red Component" : 1
+    "Alpha Component" : 1,
+    "Green Component" : 0.53506044509518191
   },
   "Custom Command" : "No",
   "ASCII Anti Aliased" : true,
@@ -98,11 +108,11 @@
   "Use Bold Font" : true,
   "Option Key Sends" : 0,
   "Selected Text Color" : {
-    "Red Component" : 0.93652200698852539,
+    "Red Component" : 0.94220242553852795,
     "Color Space" : "sRGB",
-    "Blue Component" : 0.91802817583084106,
+    "Blue Component" : 0.92854731792202749,
     "Alpha Component" : 1,
-    "Green Component" : 0.94427973031997681
+    "Green Component" : 0.9558575331550283
   },
   "Background Color" : {
     "Red Component" : 0.1565949022769928,
@@ -292,11 +302,11 @@
   "Flashing Bell" : false,
   "Silence Bell" : false,
   "Ansi 14 Color" : {
-    "Red Component" : 0,
+    "Red Component" : 0.24787836411158015,
     "Color Space" : "sRGB",
     "Blue Component" : 1,
     "Alpha Component" : 1,
-    "Green Component" : 0.94421762228012085
+    "Green Component" : 0.93600836970601042
   },
   "Name" : "Default",
   "Cursor Text Color" : {
@@ -323,9 +333,11 @@
   "Horizontal Spacing" : 1,
   "Custom Directory" : "No",
   "Ansi 4 Color" : {
-    "Green Component" : 0,
-    "Blue Component" : 0.73333334922790527,
-    "Red Component" : 0
+    "Red Component" : 0.49484779551773994,
+    "Color Space" : "sRGB",
+    "Blue Component" : 0.78215533494949341,
+    "Alpha Component" : 1,
+    "Green Component" : 0.58200382352850077
   },
   "Ansi 5 Color" : {
     "Green Component" : 0,
