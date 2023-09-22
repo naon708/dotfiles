@@ -34,11 +34,11 @@
     "Red Component" : 1
   },
   "Ansi 6 Color" : {
-    "Red Component" : 0,
+    "Red Component" : 0.25450997518809076,
     "Color Space" : "sRGB",
     "Blue Component" : 0.80445963144302368,
     "Alpha Component" : 1,
-    "Green Component" : 0.31533911824226379
+    "Green Component" : 0.48041002117615317
   },
   "Rows" : 30,
   "Default Bookmark" : "No",
@@ -302,11 +302,11 @@
   "Flashing Bell" : false,
   "Silence Bell" : false,
   "Ansi 14 Color" : {
-    "Red Component" : 0.24787836411158015,
+    "Red Component" : 0.51420213797447012,
     "Color Space" : "sRGB",
     "Blue Component" : 1,
     "Alpha Component" : 1,
-    "Green Component" : 0.93600836970601042
+    "Green Component" : 0.82889116695204024
   },
   "Name" : "Default",
   "Cursor Text Color" : {
