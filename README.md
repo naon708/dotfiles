@@ -2,7 +2,7 @@
 
 
 ## Mac Apps
-- Alfred
+- Alfred (... Raycast)
 - Notion
 - Clipy
 - iTerm2
