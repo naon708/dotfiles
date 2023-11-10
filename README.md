@@ -32,6 +32,7 @@ Preferences → Profiles → Terminal → Unlimited scrollback
 
 ## VSCode
 ### Settings
-- Workbench > Editor: Enable Preview ---> Deselect
+- Editor: Enable Preview ---> Deselect
+- Preferences: Color Theme ---> GitHub Dark
 
 ### Extensions
