@@ -9,6 +9,8 @@
 - Rectangle
 - Docker
 - Postman
+- VSCode
+- Cursor
 
 ## Chrome Extensions
 - DeepL
