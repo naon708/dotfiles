@@ -31,6 +31,10 @@ export GOENV_ROOT=$HOME/.goenv
 export PATH=$GOENV_ROOT/bin:$PATH
 eval "$(goenv init -)"
 
+# ****************************************************************
+# ターミナルでgitのブランチ名を表示&補完【git-prompt / git-completion】
+# https://qiita.com/mikan3rd/items/d41a8ca26523f950ea9d
+# ****************************************************************
 # git-promptの読み込み
 # source ~/.zsh/git-prompt.sh
 
