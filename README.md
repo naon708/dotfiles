@@ -2,10 +2,9 @@
 
 
 ## Mac Apps
-- Alfred (... Raycast)
+- Raycast or (Alfred + Clipy)
 - Notion
-- Clipy
-- iTerm2
+- iTerm2 or Warp
 - Rectangle
 - Docker
 - Postman
