@@ -3,6 +3,7 @@
 
 ## Mac Apps
 - Raycast or (Alfred + Clipy)
+- Arc
 - Notion
 - iTerm2 or Warp
 - Rectangle
