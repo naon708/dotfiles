@@ -38,3 +38,10 @@ Preferences → Profiles → Terminal → Unlimited scrollback
 - Preferences: Color Theme ---> GitHub Dark
 
 ### Extensions
+
+### その他
+#### デスクトップ上のアイコン表示を無効にする
+ターミナルで下記を実行
+```shell
+defaults write com.apple.finder CreateDesktop -bool FALSE;killall Finder
+```
