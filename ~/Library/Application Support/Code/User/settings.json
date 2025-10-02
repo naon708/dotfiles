@@ -1,0 +1,41 @@
+"// Markdownファイルの見出しへの色付け"
+"// https://marketplace.visualstudio.com/items?itemName=satokaz.vscode-markdown-header-coloring の拡張機能が入っていることが前提"
+  "markdown-header-coloring.userDefinedHeaderColor": {
+      "enabled": true,
+      "Header_1": {
+        "color": "#ffd43b",
+        "backgroundColor": "",
+        "textDecoration": "",
+        "overviewRulerColor": ""
+      },
+      "Header_2": {
+        "color": "#ffa94d",
+        "backgroundColor": "",
+        "textDecoration": "",
+        "overviewRulerColor": ""
+      },
+      "Header_3": {
+        "color": "#69db7c",
+        "backgroundColor": "",
+        "textDecoration": "",
+        "overviewRulerColor": ""
+      },
+      "Header_4": {
+        "color": "#b197fc",
+        "backgroundColor": "",
+        "textDecoration": "",
+        "overviewRulerColor": ""
+      },
+      "Header_5": {
+          "color": "#4dabf7",
+          "backgroundColor": "",
+          "textDecoration": "",
+          "overviewRulerColor": ""
+        },
+        "Header_6": {
+          "color": "#ff6b6b",
+          "backgroundColor": "",
+          "textDecoration": "",
+          "overviewRulerColor": ""
+      }
+  }
