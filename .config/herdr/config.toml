@@ -3,3 +3,6 @@ name = "tokyo-night-day"
 
 [theme.custom]
 panel_bg = "#d5d8e0"
+
+[ui.toast]
+delivery = "system"
