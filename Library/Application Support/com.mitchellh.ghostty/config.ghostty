@@ -1,0 +1,6 @@
+# theme = TokyoNight Day
+# theme = TokyoNight Moon
+theme = Catppuccin Latte
+# theme = Rose Pine Dawn
+
+desktop-notifications = true
